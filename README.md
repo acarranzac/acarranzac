@@ -1,1 +1,1 @@
-[website](https://alvaro2c.github.io/) | [cv](https://alvaro2c.github.io/cv) | [linkedin](https://www.linkedin.com/in/alvaro-carranza/) | [alvarocarranzacarrion@gmail.com](mailto:alvarocarranzacarrion@gmail.com)
+[website](https://acarranzac.github.io/) | [cv](https://acarranzac.github.io/cv) | [linkedin](https://www.linkedin.com/in/alvaro-carranza/) | [alvarocarranzacarrion@gmail.com](mailto:alvarocarranzacarrion@gmail.com)
